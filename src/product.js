@@ -10,43 +10,43 @@ const Product =[
     {
         id:1,
         name:"Iphone",
-        price:"15.000",
+        price:15.000,
         image:Phone
     },
     {
         id:2,
         name:"Bag",
-        price:"1.000",
+        price:1.000,
         image:Bag
     },
     {
         id:3,
         name:"Shoes",
-        price:"1.000",
+        price:1.000,
         image:Shoes
     },
     {
         id:4,
         name:"Glasess",
-        price:"500",
+        price:500,
         image:Glasess
     },
     {
         id:5,
         name:"Hat",
-        price:"200",
+        price:200,
         image:Hat
     },
     {
         id:6,
         name:"Jacket",
-        price:"1.000",
+        price:1.000,
         image:Jacket
     },
     {
         id:7,
         name:"Ring",
-        price:"5.000",
+        price:5.000,
         image:Ring
     },
 
